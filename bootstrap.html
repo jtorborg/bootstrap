@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<!-- add stylesheet banas 13:00  -->
+<!-- add stylesheet banas 13:00  look at collapsing columns more carefully-->
 
 <html>
 
@@ -23,9 +23,11 @@
 
       <div class = "row">
 <!-- 12 column system; into versions of 12  depends on screen size-->
-<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12"></div>
-<h4>Column 1</h4>
+<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12"s></div>
+<h4><a href = "#col1Content">Column 1</h4>
 the text goes here.
+
+<div id="col1Content"> text here text here text here text here</div>
 
       </div>
 
@@ -36,6 +38,9 @@ the text goes here.
 
             </div>
 
+<div class = "clearfix visible-sm"></div>
+
+
 
             <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12"></div>
             <h4>Column 3</h4>
@@ -44,6 +49,10 @@ the text goes here.
                   </div>
 
                   <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12"></div>
+
+                  <div id="col1Content" class="collapse"> text here</div>
+
+
                   <h4>Column 4</h4>
                   the text goes here.
 
