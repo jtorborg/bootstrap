@@ -2,6 +2,12 @@
     background-color: #2E2D88;
     color: white;
 }
+
+.lato {
+    font-family: 'Lato', serif;
+    font-size: 36px;
+}
+
 .tangerine {
     font-family: 'Tangerine', serif;
     font-size: 36px;
