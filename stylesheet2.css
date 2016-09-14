@@ -1,0 +1,35 @@
+.jumbotron {
+    background-color: #2E2D88;
+    color: white;
+    background-image: url(duckling.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Pacifico;
+}
+
+.lato {
+    font-family: 'Lato', serif;
+    font-size: 36px;
+}
+
+.tangerine {
+    font-family: 'Tangerine', serif;
+    font-size: 36px;
+}
+.pacifico {
+    font-family: 'Pacifico', serif;
+    font-size: 36px;
+}
+.dancing-script {
+    font-family: 'dancing script', serif;
+    font-size: 36px;
+}
+.amatic-sc {
+    font-family: 'amatic sc', serif;
+    font-size: 36px;
+}
+
+.kalam {
+    font-family: 'kalam', serif;
+    font-size: 36px;
+}
