@@ -1,6 +1,17 @@
+.josefinsans {
+    font-family: 'josefin sans', serif;
+    font-size: 36px;
+}
+
 .jumbotron {
     background-color: #2E2D88;
     color: white;
+}
+
+.archivonarrow {
+font-family: "Archivo Narrow", serif;
+font-size: 36px;
+
 }
 
 .lato {
