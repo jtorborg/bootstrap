@@ -1,10 +1,11 @@
-.jumbotron {
+.jumbo {
     background-color: #2E2D88;
     color: white;
-    background-image: url(duckling.jpeg);
+    background-image: url(piggytrack.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     font-family: Pacifico;
+    height: 800px;
 }
 
 .lato {
