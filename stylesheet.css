@@ -2,23 +2,29 @@
     font-family: 'josefin sans', serif;
     font-size: 36px;
 }
-
 .jumbotron {
     background-color: #2E2D88;
     color: white;
 }
-
 .archivonarrow {
-font-family: "Archivo Narrow", serif;
-font-size: 36px;
+    font-family: "Archivo Narrow", serif;
+    font-size: 36px;
+}
 
+.benchnine {
+    font-family: "BenchNine", serif;
+    font-size: 36px;
+}
+
+.just-another-hand {
+    font-family: "Just Another Hand", serif;
+    font-size: 36px;
 }
 
 .lato {
     font-family: 'Lato', serif;
     font-size: 36px;
 }
-
 .tangerine {
     font-family: 'Tangerine', serif;
     font-size: 36px;
@@ -35,7 +41,6 @@ font-size: 36px;
     font-family: 'amatic sc', serif;
     font-size: 36px;
 }
-
 .kalam {
     font-family: 'kalam', serif;
     font-size: 36px;
