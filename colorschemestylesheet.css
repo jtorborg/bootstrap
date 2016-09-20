@@ -5,9 +5,55 @@ body {
 
 
 .jumbotron {
-    background-color: #;
+    background-color: #D7CEC7;
     color: white;
 }
+
+
+.jumbotron2 {
+    background-color: #565656;
+    color: white;
+}
+
+.jumbotron3 {
+    background-color: #76323F;
+    color: white;
+}
+
+span {
+
+background-color: #93B1C6;
+
+
+}
+
+h1 {
+
+color:
+#517398;
+
+}
+
+h2 {
+text-align: center;
+color:  #0B99BC;
+
+}
+
+h3 {
+
+color:  #558188;
+
+}
+
+h4 {
+
+  color: #75A3D1;;
+}
+
+
+
+
 
 .kalam {
     font-family: 'Kalam', serif;
